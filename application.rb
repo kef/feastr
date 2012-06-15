@@ -11,8 +11,4 @@ helpers do
   alias_method :h, :escape_html
 end
 
-#Dir["controllers/*.rb"].each { |file| load file }
-
-get '/' do
-  'Hello World!'
-end
+Dir["controllers/*.rb"].each { |file| load file }
