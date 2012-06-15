@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+
+<channel>
+	<title>ADDcasts! (audio version)</title>
+	<atom:link href="http://addcasts.com/feed/podcast" rel="self" type="application/rss+xml" />
+	<link>http://addcasts.com</link>
+	<description>You don&#039;t have anything better to do right now. Trust us.</description>
+	<lastBuildDate>Mon, 12 Dec 2011 20:11:50 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=ADDcasts! (audio version)</generator>
+<!-- podcast_generator="Blubrry PowerPress/2.0.4" -->
+	<itunes:summary>You don&#039;t have anything better to do right now. Trust us.</itunes:summary>
+	<itunes:author>David Brady &amp; Pat Maddox</itunes:author>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://addcasts.com/wp-content/plugins/powerpress/itunes_default.jpg" />
+	<itunes:owner>
+		<itunes:name>David Brady &amp; Pat Maddox</itunes:name>
+		<itunes:email>patmaddox@me.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>patmaddox@me.com (David Brady &amp; Pat Maddox)</managingEditor>
+	<copyright>United States</copyright>
+	<itunes:subtitle>Your weekly dose of software and other random bits, served up to you by David Brady and Pat Maddox</itunes:subtitle>
+	<image>
+		<title>ADDcasts! (audio version)</title>
+		<url>http://addcasts.com/images/add_thumb.png</url>
+		<link>http://addcasts.com</link>
+	</image>
+		<rawvoice:frequency>Weekly</rawvoice:frequency>
+		<item>
+		<title>Episode 15: Michael Feathers chats about refactoring in the fourth dimension, seducing end users, and letting code die</title>
+		<link>http://addcasts.com/2011/12/12/episode-15-michael-feathers-chats-about-refactoring-in-the-fourth-dimension-seducing-end-users-and-letting-code-die/</link>
+		<comments>http://addcasts.com/2011/12/12/episode-15-michael-feathers-chats-about-refactoring-in-the-fourth-dimension-seducing-end-users-and-letting-code-die/#comments</comments>
+		<pubDate>Mon, 12 Dec 2011 20:11:50 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://addcasts.com/?p=176</guid>
+		<description><![CDATA[David breaks into Agile 2011 and we manage to record a show with Michael Feathers – Chief Scientist @ Obtiva, “Working Effectively with Legacy Code” author, and just a guy who thought he was going to write a book so people would solve the problems themselves. Instead they all wanted him to work for them. [...]<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></description>
+			<content:encoded><![CDATA[<p>David breaks into Agile 2011 and we manage to record a show with Michael Feathers – Chief Scientist @ Obtiva, “Working Effectively with Legacy Code” author, and just a guy who thought he was going to write a book so people would solve the problems themselves. Instead they all wanted him to work for them.</p>
+<p>Michael talks to us about refactoring in the fourth dimension and scaling humans, a few topics that have been on his mind at Agile 2011. He wants to know what we can learn about how software teams work and how a code base got to be a certain way by analzying version control history. </p>
+<p>What are the universal truths of software development? There may not be many, but Dave explains why you should never buy software written on a Thursday.</p>
+<p>Assorted topics for your ADDed pleasure:</p>
+<ul>
+<li>economics vs emotions in your choice of technical practices</li>
+<li>how monkey-patching freezes a software system in time</li>
+<li>the code ecosystem</li>
+<li>seducing end-users!</li>
+<li>when you just need to take the code out back and shoot it</li>
+<li>what has and hasn’t changed in software in the past decade</li>
+</ul>
+<p>Michael is currently working on a new book called “Brutal Refactoring,” and has published a few articles that we talked about in this episode:</p>
+<ul>
+<li><a href="http://drdobbs.com/article/print?articleId=231002664&amp;siteSectionName=">Discovering hidden design</a></li>
+<li><a href="http://drdobbs.com/article/print?articleId=231500074&amp;siteSectionName=">Refactoring deeply nested code</a></li>
+</ul>
+<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://addcasts.com/2011/12/12/episode-15-michael-feathers-chats-about-refactoring-in-the-fourth-dimension-seducing-end-users-and-letting-code-die/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://addcasts.com/episodes/addcasts015_mfeathers.mp3" length="63905474" type="audio/mpeg" />
+			<itunes:subtitle>David breaks into Agile 2011 and we manage to record a show with Michael Feathers – Chief Scientist @ Obtiva, “Working Effectively with Legacy Code” author, and just a guy who thought he was going to write a book so people would solve the problems them...</itunes:subtitle>
+		<itunes:summary>David breaks into Agile 2011 and we manage to record a show with Michael Feathers – Chief Scientist @ Obtiva, “Working Effectively with Legacy Code” author, and just a guy who thought he was going to write a book so people would solve the problems themselves. Instead they all wanted him to work for them.
+
+Michael talks to us about refactoring in the fourth dimension and scaling humans, a few topics that have been on his mind at Agile 2011. He wants to know what we can learn about how software teams work and how a code base got to be a certain way by analzying version control history. 
+
+What are the universal truths of software development? There may not be many, but Dave explains why you should never buy software written on a Thursday.
+
+Assorted topics for your ADDed pleasure:
+
+
+economics vs emotions in your choice of technical practices
+how monkey-patching freezes a software system in time
+the code ecosystem
+seducing end-users!
+when you just need to take the code out back and shoot it
+what has and hasn’t changed in software in the past decade
+
+
+Michael is currently working on a new book called “Brutal Refactoring,” and has published a few articles that we talked about in this episode:
+
+
+Discovering hidden design
+Refactoring deeply nested code</itunes:summary>
+		<itunes:author>David Brady &amp; Pat Maddox</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>53:15</itunes:duration>
+	</item>
+		<item>
+		<title>Episode 14: We&#8217;re Back! Dealing Effectively With Legacy Data</title>
+		<link>http://addcasts.com/2011/11/09/episode-14-were-back-dealing-effectively-with-legacy-data/</link>
+		<comments>http://addcasts.com/2011/11/09/episode-14-were-back-dealing-effectively-with-legacy-data/#comments</comments>
+		<pubDate>Wed, 09 Nov 2011 15:26:02 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[adoption]]></category>
+		<category><![CDATA[celebrities]]></category>
+		<category><![CDATA[databases]]></category>
+		<category><![CDATA[debt]]></category>
+		<category><![CDATA[dennis ritchie]]></category>
+		<category><![CDATA[friendlyorm]]></category>
+		<category><![CDATA[john mccarthy]]></category>
+		<category><![CDATA[legacy code]]></category>
+		<category><![CDATA[legacy data]]></category>
+		<category><![CDATA[NoSQL]]></category>
+		<category><![CDATA[steve jobs]]></category>
+
+		<guid isPermaLink="false">http://addcasts.com/?p=172</guid>
+		<description><![CDATA[BACK ONCE AGAIN WITH THE ILL BEHAVIOR!!! Pat and Dave have been heads-down on a critical project and you know what? You don&#8217;t want to hear our excuse. We don&#8217;t have one. We&#8217;re sorry. And WE&#8217;RE BACK. In today&#8217;s hour-long episode, Dave lets Pat talk for nearly nine minutes&#8212;don&#8217;t worry, he doesn&#8217;t let him do [...]<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></description>
+			<content:encoded><![CDATA[<p>BACK ONCE AGAIN WITH THE ILL BEHAVIOR!!!</p>
+<p>Pat and Dave have been heads-down on a critical project and you know what? You don&#8217;t want to hear our excuse. We don&#8217;t have one. We&#8217;re sorry. And WE&#8217;RE BACK.</p>
+<p>In today&#8217;s hour-long episode, Dave lets Pat talk for nearly nine minutes&mdash;don&#8217;t worry, he doesn&#8217;t let him do it all at once&mdash;starting with catching up socially and then moving on to dealing with legacy data, data migrations, and the difference between using a Document-Oriented Database and simply using a Document-Oriented Strategy. Today we talk about:</p>
+<ul>
+<li>0:00: Best Opening Credits Ever</li>
+<li>1:12: On the passing of Steve Jobs, Dennis Ritchie and John McCarthy&mdash;why Dave was more upset about Dennis Ritchie than Steve Jobs, and why we grieve for celebrities. (EDIT: My apologies, I failed to give credit to <a href="http://twitter.com/tehviking">Brandon Hays (@tehviking)</a> for the &#8220;celebrity investiture&#8221; idea. &mdash;Dave)</li>
+<li>9:15: Getting out of debt</li>
+<li>11:30: Postcards from the Edge of the adoption process in America&mdash;and we mean &#8220;Adoption&#8221; adoption, as in the process of assuming the legal guardianship of a human being</li>
+<li>15:00: Legacy Databases: if your legacy data is completely messed up, consider looking at (and helping out with) <a href="http://github.com/dbrady/migratrix">Migratrix</a></li>
+<li>28:00: Agile database refactoring and testing</li>
+<li>41:20: NoSQL in SQL: Using a Document-oriented <i>strategy</i> in a SQL database</li>
+<li>45:00: Why you should check out <a href="http://github.com/jamesgolick/friendly">Friendly ORM</a></li>
+<li>56:45: Hermeneutics Loves Documents, Formalism Loves SQL</li>
+<li>1:02:50: Sneak Peek at Upcoming Episodes&mdash;<a href="http://twitter.com/mfeathers">Michael Feathers</a>, we owe you a HUGE apology for taking so long getting your interview up. It&#8217;s NEXT!</li>
+</ul>
+<p>A Note on Call Quality: Pat and I take redundant steps to make sure the call quality stays high. Unfortunately in this call we experienced redundant failures. Pat&#8217;s side didn&#8217;t record at all, so we had to rely on my recording, and halfway through the call Skype throttled the bandwidth so hard that Pat sort of becomes an impressionist painting with garbled audio. We apologize for the inconvenience and are looking into new recording solutions to avoid this in the future.</p>
+<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://addcasts.com/2011/11/09/episode-14-were-back-dealing-effectively-with-legacy-data/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+<enclosure url="http://addcasts.com/episodes/addcasts014.mp3" length="92654271" type="audio/mpeg" />
+			<itunes:keywords>adoption,celebrities,databases,debt,dennis ritchie,friendlyorm,john mccarthy,legacy code,legacy data,NoSQL,steve jobs</itunes:keywords>
+		<itunes:subtitle>BACK ONCE AGAIN WITH THE ILL BEHAVIOR!!! - Pat and Dave have been heads-down on a critical project and you know what? You don&#039;t want to hear our excuse. We don&#039;t have one. We&#039;re sorry. And WE&#039;RE BACK. - In today&#039;s hour-long episode,</itunes:subtitle>
+		<itunes:summary>BACK ONCE AGAIN WITH THE ILL BEHAVIOR!!!
+
+Pat and Dave have been heads-down on a critical project and you know what? You don&#039;t want to hear our excuse. We don&#039;t have one. We&#039;re sorry. And WE&#039;RE BACK.
+
+In today&#039;s hour-long episode, Dave lets Pat talk for nearly nine minutes—don&#039;t worry, he doesn&#039;t let him do it all at once—starting with catching up socially and then moving on to dealing with legacy data, data migrations, and the difference between using a Document-Oriented Database and simply using a Document-Oriented Strategy. Today we talk about:
+
+
+0:00: Best Opening Credits Ever
+1:12: On the passing of Steve Jobs, Dennis Ritchie and John McCarthy—why Dave was more upset about Dennis Ritchie than Steve Jobs, and why we grieve for celebrities. (EDIT: My apologies, I failed to give credit to Brandon Hays (@tehviking) for the &quot;celebrity investiture&quot; idea. —Dave)
+9:15: Getting out of debt
+11:30: Postcards from the Edge of the adoption process in America—and we mean &quot;Adoption&quot; adoption, as in the process of assuming the legal guardianship of a human being
+15:00: Legacy Databases: if your legacy data is completely messed up, consider looking at (and helping out with) Migratrix
+28:00: Agile database refactoring and testing
+41:20: NoSQL in SQL: Using a Document-oriented strategy in a SQL database
+45:00: Why you should check out Friendly ORM
+56:45: Hermeneutics Loves Documents, Formalism Loves SQL
+1:02:50: Sneak Peek at Upcoming Episodes—Michael Feathers, we owe you a HUGE apology for taking so long getting your interview up. It&#039;s NEXT!
+
+
+A Note on Call Quality: Pat and I take redundant steps to make sure the call quality stays high. Unfortunately in this call we experienced redundant failures. Pat&#039;s side didn&#039;t record at all, so we had to rely on my recording, and halfway through the call Skype throttled the bandwidth so hard that Pat sort of becomes an impressionist painting with garbled audio. We apologize for the inconvenience and are looking into new recording solutions to avoid this in the future.</itunes:summary>
+		<itunes:author>David Brady &amp; Pat Maddox</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:04:21</itunes:duration>
+	</item>
+		<item>
+		<title>Episode 13: JB Rainsberger on Life, Productivity, and the Pursuit of Happiness</title>
+		<link>http://addcasts.com/2011/08/24/episode-13-jb-rainsberger-on-life-productivity-and-the-pursuit-of-happiness/</link>
+		<comments>http://addcasts.com/2011/08/24/episode-13-jb-rainsberger-on-life-productivity-and-the-pursuit-of-happiness/#comments</comments>
+		<pubDate>Wed, 24 Aug 2011 21:15:50 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://addcasts.com/?p=164</guid>
+		<description><![CDATA[In this latest ADDcast, I (Pat) sit down with JB Rainsberger at his home in Prince Edward Island, Canada. We riff on productivity, financial independence, and lifestyle design. JB describes himself as &#8220;retired, but not rich.&#8221; Among the insights he shares in this episode: How to truly know that you&#8217;re getting better at something The [...]<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></description>
+			<content:encoded><![CDATA[<p>In this latest ADDcast, I (Pat) sit down with <a href="http://jbrains.ca/">JB Rainsberger</a> at his home in Prince Edward Island, Canada. We riff on productivity, financial independence, and lifestyle design. JB describes himself as &#8220;retired, but not rich.&#8221; Among the insights he shares in this episode:</p>
+<ul>
+<li>How to truly know that you&#8217;re getting better at something</li>
+<li>The formula for creating positive change</li>
+<li>How to get into Flow in three minutes</li>
+<li>Focusing your energy on the things you value most</li>
+<li>How to protect your time</li>
+</ul>
+<p>Awesome quote: &#8220;The ultimate delegation is to /dev/null &#8211; it has infinite capacity and zero interference.&#8221;</p>
+<p><a href="http://www.youtube.com/watch?v=FQ-8xj8CUZw">Mayor of Vilnius, Lithuania, driving a tank over an illegally-parked Mercedes.</a></p>
+<p>If you like what you hear in this episode, JB runs a workshop called <a href="http://www.freeyourmind-dogreatwork.com/">Free Your Mind To Do Great Work</a> where he goes into all of these topics in great detail.</p>
+<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://addcasts.com/2011/08/24/episode-13-jb-rainsberger-on-life-productivity-and-the-pursuit-of-happiness/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://addcasts.com/episodes/addcasts013.mp3" length="64869274" type="audio/mpeg" />
+			<itunes:subtitle>In this latest ADDcast, I (Pat) sit down with JB Rainsberger at his home in Prince Edward Island, Canada. We riff on productivity, financial independence, and lifestyle design. JB describes himself as &quot;retired, but not rich.</itunes:subtitle>
+		<itunes:summary>In this latest ADDcast, I (Pat) sit down with JB Rainsberger at his home in Prince Edward Island, Canada. We riff on productivity, financial independence, and lifestyle design. JB describes himself as &quot;retired, but not rich.&quot; Among the insights he shares in this episode:
+
+
+How to truly know that you&#039;re getting better at something
+The formula for creating positive change
+How to get into Flow in three minutes
+Focusing your energy on the things you value most
+How to protect your time
+
+
+Awesome quote: &quot;The ultimate delegation is to /dev/null - it has infinite capacity and zero interference.&quot;
+
+Mayor of Vilnius, Lithuania, driving a tank over an illegally-parked Mercedes.
+
+If you like what you hear in this episode, JB runs a workshop called Free Your Mind To Do Great Work where he goes into all of these topics in great detail.</itunes:summary>
+		<itunes:author>David Brady &amp; Pat Maddox</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:07:34</itunes:duration>
+	</item>
+		<item>
+		<title>Episode 12: Exceptional Ruby, Demeter, and Software Confessionals with Avdi Grimm</title>
+		<link>http://addcasts.com/2011/08/03/episode-12-exceptional-ruby-demeter-and-software-confessionals-with-avdi-grimm/</link>
+		<comments>http://addcasts.com/2011/08/03/episode-12-exceptional-ruby-demeter-and-software-confessionals-with-avdi-grimm/#comments</comments>
+		<pubDate>Wed, 03 Aug 2011 13:00:54 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://addcasts.com/?p=146</guid>
+		<description><![CDATA[It&#8217;s our dozenth ADDcast! Avdi Grimm dials in via the Windows virtual machine on his Linux box, making for a nifty stop motion animation effect. Avdi is a busy guy, juggling a consulting business, the conference circuit, and his recently released ebook entitled Exceptional Ruby. He shares his thoughts on how to be a good [...]<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s our dozenth ADDcast! <a href="http://about.avdi.org/">Avdi Grimm</a> dials in via the Windows virtual machine on his Linux box, making for a nifty stop motion animation effect. Avdi is a busy guy, juggling a consulting business, the conference circuit, and his recently released ebook entitled <a href="http://exceptionalruby.com/">Exceptional Ruby</a>. He shares his thoughts on how to be a good teammate and facilitator on a remote team, how he managed to write a book and still feed his four kids, and sets the record straight on the Law of Demeter. Dave uses code examples that might land him a coffee date with some FBI agents and demystifies chained enumerations. We also talk about when to refactor and how far to go, and wrap up with a quick discussion on becoming a better programmer (or anything, really) through experimentation and self-reflection.</p>
+<p>(and no, Pat has no idea how to make the video file sizes smaller. Sorry about that)</p>
+<p>Show notes!</p>
+<ul>
+<li><a href='http://avdi.org/devblog/2010/01/20/confident-code-at-bmore-on-rails/'>Avdi&#8217;s Confident Code talk</a></li>
+<li><a href="http://exceptionalruby.com/">Avdi&#8217;s book, Exceptional Ruby</a></li>
+<li><a href="http://avdi.org/devblog/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/">Avdi&#8217;s Law of Demeter blog post</a></li>
+<li><a href="http://rubygems.org/gems/rcodetools">xmpfilter</a> &#8211; a tool for annotating text files with the results of embedded ruby code</li>
+<li><a href="http://www.google.com/search?ie=UTF-8&amp;q=emacs+org+mode">emacs org-mode</a> &#8211; book publishing tool and all-around life wrangler</li>
+</ul>
+<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://addcasts.com/2011/08/03/episode-12-exceptional-ruby-demeter-and-software-confessionals-with-avdi-grimm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://addcasts.com/episodes/addcasts012.mp3" length="62468099" type="audio/mpeg" />
+			<itunes:subtitle>It&#039;s our dozenth ADDcast! Avdi Grimm dials in via the Windows virtual machine on his Linux box, making for a nifty stop motion animation effect. Avdi is a busy guy, juggling a consulting business, the conference circuit,</itunes:subtitle>
+		<itunes:summary>It&#039;s our dozenth ADDcast! Avdi Grimm dials in via the Windows virtual machine on his Linux box, making for a nifty stop motion animation effect. Avdi is a busy guy, juggling a consulting business, the conference circuit, and his recently released ebook entitled Exceptional Ruby. He shares his thoughts on how to be a good teammate and facilitator on a remote team, how he managed to write a book and still feed his four kids, and sets the record straight on the Law of Demeter. Dave uses code examples that might land him a coffee date with some FBI agents and demystifies chained enumerations. We also talk about when to refactor and how far to go, and wrap up with a quick discussion on becoming a better programmer (or anything, really) through experimentation and self-reflection.
+
+(and no, Pat has no idea how to make the video file sizes smaller. Sorry about that)
+
+Show notes!
+
+
+Avdi&#039;s Confident Code talk
+Avdi&#039;s book, Exceptional Ruby
+Avdi&#039;s Law of Demeter blog post
+xmpfilter - a tool for annotating text files with the results of embedded ruby code
+emacs org-mode - book publishing tool and all-around life wrangler</itunes:summary>
+		<itunes:author>David Brady &amp; Pat Maddox</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:05:04</itunes:duration>
+	</item>
+		<item>
+		<title>Episode 11: Evan Light, TDD for requirements analysis, and lame jokes made marginally better</title>
+		<link>http://addcasts.com/2011/07/15/episode-11-evan-light-tdd-for-requirements-analysis-and-lame-jokes-made-marginally-better/</link>
+		<comments>http://addcasts.com/2011/07/15/episode-11-evan-light-tdd-for-requirements-analysis-and-lame-jokes-made-marginally-better/#comments</comments>
+		<pubDate>Sat, 16 Jul 2011 00:38:26 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://addcasts.com/?p=134</guid>
+		<description><![CDATA[Evan Light joins us in the 11th episode of ADDcasts. We kick off the show with a discussion about TDD, where Evan tells us that TDD is more than about testing, code quality, and design. He shares some tips on how to use TDD for requirements gathering and analysis. Then, Evan being the freelancing conversation [...]<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></description>
+			<content:encoded><![CDATA[<p>Evan Light joins us in the 11th episode of ADDcasts. We kick off the show with a discussion about TDD, where Evan tells us that TDD is more than about testing, code quality, and design. He shares some tips on how to use TDD for requirements gathering and analysis. Then, Evan being the freelancing conversation magnet that he is, we turn to the question of how to make sure you get paid for the work that you do. Along the way, Dave rewrites Pat’s lame joke, Evan makes hilarious faces, and we peer into the minds of cats and dogs.</p>
+<p>Very Important Hyperlinks:<br />
+* <a href='https://github.com/elight/coulda'>Coulda</a>, Evan’s Given-When-Then extension to Test::Unit. For BDDers who think Ruby is just fine, thank you very much<br />
+* Evan’s <a href='http://evan.tiggerpalace.com/'>blog</a> and <a href='http://twitter.com/#!/elight'>twitter</a><br />
+* <a href='http://rubydcamp.org/'>Ruby DCamp</a> &#8211; a FREE “hippy unconference” for hackers, held in the mountains of Virginia<br />
+* <a href='https://gist.github.com/1083369'>Pat’s bit of code that generates an ActiveModel implementation from shoulda-style validations</a></p>
+<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://addcasts.com/2011/07/15/episode-11-evan-light-tdd-for-requirements-analysis-and-lame-jokes-made-marginally-better/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://addcasts.com//episodes/addcasts011.mp3" length="95634108" type="audio/mpeg" />
+			<itunes:subtitle>Evan Light joins us in the 11th episode of ADDcasts. We kick off the show with a discussion about TDD, where Evan tells us that TDD is more than about testing, code quality, and design. He shares some tips on how to use TDD for requirements gathering a...</itunes:subtitle>
+		<itunes:summary>Evan Light joins us in the 11th episode of ADDcasts. We kick off the show with a discussion about TDD, where Evan tells us that TDD is more than about testing, code quality, and design. He shares some tips on how to use TDD for requirements gathering and analysis. Then, Evan being the freelancing conversation magnet that he is, we turn to the question of how to make sure you get paid for the work that you do. Along the way, Dave rewrites Pat’s lame joke, Evan makes hilarious faces, and we peer into the minds of cats and dogs.
+
+Very Important Hyperlinks:
+* Coulda, Evan’s Given-When-Then extension to Test::Unit. For BDDers who think Ruby is just fine, thank you very much
+* Evan’s blog and twitter
+* Ruby DCamp - a FREE “hippy unconference” for hackers, held in the mountains of Virginia
+* Pat’s bit of code that generates an ActiveModel implementation from shoulda-style validations</itunes:summary>
+		<itunes:author>David Brady &amp; Pat Maddox</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:06:25</itunes:duration>
+	</item>
+		<item>
+		<title>Episode 10: Back from the Dead and Other Forms of Self-Improvement</title>
+		<link>http://addcasts.com/2011/07/07/episode-10-back-from-the-dead-and-other-forms-of-self-improvement/</link>
+		<comments>http://addcasts.com/2011/07/07/episode-10-back-from-the-dead-and-other-forms-of-self-improvement/#comments</comments>
+		<pubDate>Fri, 08 Jul 2011 02:25:31 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://addcasts.com/?p=131</guid>
+		<description><![CDATA[Dave is back from the dead and Pat is just regular back! And we made an episode of ADDcasts! In this show we talk about self improvement, Dave&#8217;s Smalltalk Experiment, geeking out about music, being crazy in specific ways, and probably some other things Dave would mention here if he weren&#8217;t the specific kind of [...]<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></description>
+			<content:encoded><![CDATA[<p>Dave is back from the dead and Pat is just regular back! And we made an episode of ADDcasts!</p>
+<p>In this show we talk about self improvement, Dave&#8217;s Smalltalk Experiment, geeking out about music, being crazy in specific ways, and probably some other things Dave would mention here if he weren&#8217;t the specific kind of crazy that makes him end long lists with rambling passages of introspection about his list-making skills.</p>
+<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://addcasts.com/2011/07/07/episode-10-back-from-the-dead-and-other-forms-of-self-improvement/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://addcasts.com/episodes/addcasts010.mp3" length="89944639" type="audio/mpeg" />
+			<itunes:subtitle>Dave is back from the dead and Pat is just regular back! And we made an episode of ADDcasts! - In this show we talk about self improvement, Dave&#039;s Smalltalk Experiment, geeking out about music, being crazy in specific ways,</itunes:subtitle>
+		<itunes:summary>Dave is back from the dead and Pat is just regular back! And we made an episode of ADDcasts!
+
+In this show we talk about self improvement, Dave&#039;s Smalltalk Experiment, geeking out about music, being crazy in specific ways, and probably some other things Dave would mention here if he weren&#039;t the specific kind of crazy that makes him end long lists with rambling passages of introspection about his list-making skills.</itunes:summary>
+		<itunes:author>David Brady &amp; Pat Maddox</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:02:28</itunes:duration>
+	</item>
+		<item>
+		<title>Episode 9: Continuous Deployment, Continuous Improvement</title>
+		<link>http://addcasts.com/2011/06/07/episode-9-continuous-deployment-continuous-improvement/</link>
+		<comments>http://addcasts.com/2011/06/07/episode-9-continuous-deployment-continuous-improvement/#comments</comments>
+		<pubDate>Tue, 07 Jun 2011 21:33:43 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://addcasts.com/?p=128</guid>
+		<description><![CDATA[Dave rocks the standing desk and Pat rocks the awesome today in a mellow philosophical episode of ADDcasts that goes down smoooooth. More show notes will be coming soon, but for now, today&#8217;s question is: what do you do to continuously improve yourself and your team? Subscribe to the audio version or the video version [...]<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></description>
+			<content:encoded><![CDATA[<p>Dave rocks the standing desk and Pat rocks the awesome today in a mellow philosophical episode of ADDcasts that goes down smoooooth.</p>
+<p>More show notes will be coming soon, but for now, today&#8217;s question is: what do you do to continuously improve yourself and your team?</p>
+<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://addcasts.com/2011/06/07/episode-9-continuous-deployment-continuous-improvement/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://addcasts.com/episodes/addcasts009.mp3" length="99654040" type="audio/mpeg" />
+			<itunes:subtitle>Dave rocks the standing desk and Pat rocks the awesome today in a mellow philosophical episode of ADDcasts that goes down smoooooth. - More show notes will be coming soon, but for now, today&#039;s question is: what do you do to continuously improve yourse...</itunes:subtitle>
+		<itunes:summary>Dave rocks the standing desk and Pat rocks the awesome today in a mellow philosophical episode of ADDcasts that goes down smoooooth.
+
+More show notes will be coming soon, but for now, today&#039;s question is: what do you do to continuously improve yourself and your team?</itunes:summary>
+		<itunes:author>David Brady &amp; Pat Maddox</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:09:12</itunes:duration>
+	</item>
+		<item>
+		<title>Episode 8: Language Philosophy, ADD, and Formalism</title>
+		<link>http://addcasts.com/2011/05/31/episode-8-language-philosophy-add-and-formalism/</link>
+		<comments>http://addcasts.com/2011/05/31/episode-8-language-philosophy-add-and-formalism/#comments</comments>
+		<pubDate>Tue, 31 May 2011 17:57:13 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://addcasts.com/?p=120</guid>
+		<description><![CDATA[Today&#8217;s ADDcast begins with this outrageous claim &#8220;C++ is the best object-oriented language ever, given its design philosophy.&#8221; and just gets weirder from there. Pat and I have both been reading Object Thinking by David West and we spend a good time chatting about object-oriented analysis, design and programming in terms of formalist philosophy. We [...]<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></description>
+			<content:encoded><![CDATA[<p>Today&#8217;s ADDcast begins with this outrageous claim &#8220;C++ is the best object-oriented language ever, given its design philosophy.&#8221; and just gets weirder from there. Pat and I have both been reading Object Thinking by David West and we spend a good time chatting about object-oriented analysis, design and programming in terms of formalist philosophy. We also talk about something wonderful with a horrible name: hermeneutics. Along the way we discuss mental health, Attention Deficit Disorder (the real actual thing), and the design of beer-management systems.</p>
+<h3>Contest!</h3>
+<p>&#8220;What are the two hardest problems in computer science?&#8221; &#8211; Pat asked Dave this question, but forgot to deliver the punchline after Dave proclaimed, &#8220;Getting dates with women, and I&#8217;m going with that twice.&#8221; <b>Leave a comment below</b>, and we&#8217;ll send our favorite a copy of <a href='http://exceptionalruby.com/'>Exceptional Ruby by Avdi Grimm</a>. The winner will be announced in the next episode.</p>
+<h3>Show Notes:</h3>
+<ul>
+<li>Get your awesome <a href="http://www.rubythreads.com/products/minaswan">MINASWAN shirt</a> and more sweet geek gear from <a href="http://www.rubythreads.com/">RubyThreads</a></li>
+<li>Here is the <a href="http://seawitchery.tumblr.com/post/4070384205/i-started-out-clicking-strategically-and-by-the">music box</a> in the opening credits.</li>
+<li><a href='http://www.amazon.com/Object-Thinking-DV-Microsoft-Professional-David/dp/0735619654'>Object Thinking by David West</a> &#8211; Pat &#038; David have both been reading this book, and we discuss thoughts from it at various points throughout the podcast. (20:40)</li>
+<li>Dave boldly stated: &#8220;C++ is the best object-oriented programming language ever, given its philosophy.&#8221; A minute later he was explaining how folks with ADD have hunting instincts in a world dominated by farming behavior. He cites <a href='http://www.amazon.com/Attention-Deficit-Disorder-Different-Perception/dp/1887424148/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1306880472&#038;sr=1-1'>ADD: A Different Perception</a> as a useful resource for understanding ADD. (21:50)</li>
+<li><a href='http://www.amazon.com/Driven-Distraction-Recognizing-Attention-Childhood/dp/0684801280/ref=sr_1_1?s=books&#038;ie=UTF8&#038;qid=1306880690&#038;sr=1-1'>Driven to Distraction</a> &#8211; The Bible of ADD books, with an important but boring section that even non-ADD folks find dry. (25:21)</li>
+<li>We pontificate about how Erlang&#8217;s messaging patterns are OOish in nature. Pat brings up <a href='http://lists.squeakfoundation.org/pipermail/squeak-dev/1998-October/017019.html'>Alan Kay&#8217;s mailing list post stating &#8220;the big idea is messaging.&#8221;</a> (32:00)</li>
+<li><a href='http://www.amazon.com/Streamlined-Object-Modeling-Patterns-Implementation/dp/0130668397'>Streamlined Object Modeling</a> &#8211; Pat cites this book as a good reference for collaboration patterns, and how it demonstrates the &#8220;flipped&#8221; nature of object-oriented design. (53:30)</a>
+<li>Dave wonders whether <a href='http://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X/ref=sr_1_1?s=books&#038;ie=UTF8&#038;qid=1306881044&#038;sr=1-1'>Smalltalk Best Practice Patterns</a> it&#8217;s relevant today. Pat thinks it provides a straightforward, systematic approach to crafting code. (1:01:00)</li>
+<li>Pat points to the <a href='http://c2.com/cgi/wiki?DefensiveProgramming'>C2 wiki page on Defensive Programming</a> during a discussion on validating data. (1:02:15)</li>
+<li><a href='http://avdi.org/devblog/2010/01/20/confident-code-at-bmore-on-rails/'>Avdi Grimm&#8217;s &#8220;Confident Code&#8221; talk</a>, and his new book, <a href='http://exceptionalruby.com/'>Exceptional Ruby</a> (1:02:30).
+</ul>
+<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://addcasts.com/2011/05/31/episode-8-language-philosophy-add-and-formalism/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+<enclosure url="http://addcasts.com/episodes/addcasts008.mp3" length="94310014" type="audio/mpeg" />
+			<itunes:subtitle>Today&#039;s ADDcast begins with this outrageous claim &quot;C++ is the best object-oriented language ever, given its design philosophy.&quot; and just gets weirder from there. Pat and I have both been reading Object Thinking by David West and we spend a good time ch...</itunes:subtitle>
+		<itunes:summary>Today&#039;s ADDcast begins with this outrageous claim &quot;C++ is the best object-oriented language ever, given its design philosophy.&quot; and just gets weirder from there. Pat and I have both been reading Object Thinking by David West and we spend a good time chatting about object-oriented analysis, design and programming in terms of formalist philosophy. We also talk about something wonderful with a horrible name: hermeneutics. Along the way we discuss mental health, Attention Deficit Disorder (the real actual thing), and the design of beer-management systems.
+
+Contest!
+
+&quot;What are the two hardest problems in computer science?&quot; - Pat asked Dave this question, but forgot to deliver the punchline after Dave proclaimed, &quot;Getting dates with women, and I&#039;m going with that twice.&quot; Leave a comment below, and we&#039;ll send our favorite a copy of Exceptional Ruby by Avdi Grimm. The winner will be announced in the next episode.
+
+Show Notes:
+
+
+        Get your awesome MINASWAN shirt and more sweet geek gear from RubyThreads
+	Here is the music box in the opening credits.
+	Object Thinking by David West - Pat &amp; David have both been reading this book, and we discuss thoughts from it at various points throughout the podcast. (20:40)
+         Dave boldly stated: &quot;C++ is the best object-oriented programming language ever, given its philosophy.&quot; A minute later he was explaining how folks with ADD have hunting instincts in a world dominated by farming behavior. He cites ADD: A Different Perception as a useful resource for understanding ADD. (21:50)
+        Driven to Distraction - The Bible of ADD books, with an important but boring section that even non-ADD folks find dry. (25:21)
+        We pontificate about how Erlang&#039;s messaging patterns are OOish in nature. Pat brings up Alan Kay&#039;s mailing list post stating &quot;the big idea is messaging.&quot; (32:00)
+        Streamlined Object Modeling - Pat cites this book as a good reference for collaboration patterns, and how it demonstrates the &quot;flipped&quot; nature of object-oriented design. (53:30)
+        Dave wonders whether Smalltalk Best Practice Patterns it&#039;s relevant today. Pat thinks it provides a straightforward, systematic approach to crafting code. (1:01:00)
+        Pat points to the C2 wiki page on Defensive Programming during a discussion on validating data. (1:02:15)
+        Avdi Grimm&#039;s &quot;Confident Code&quot; talk, and his new book, Exceptional Ruby (1:02:30).</itunes:summary>
+		<itunes:author>David Brady &amp; Pat Maddox</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:05:29</itunes:duration>
+	</item>
+		<item>
+		<title>Episode 7: Spacetime! New Projects! Cranky Bosses! Metaphors!</title>
+		<link>http://addcasts.com/2011/05/25/episode-7-spacetime-new-projects-cranky-bosses-metaphors/</link>
+		<comments>http://addcasts.com/2011/05/25/episode-7-spacetime-new-projects-cranky-bosses-metaphors/#comments</comments>
+		<pubDate>Thu, 26 May 2011 04:49:49 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://addcasts.com/?p=115</guid>
+		<description><![CDATA[Dave and Pat are back with another grab-bag of ADDcast pleasure. This episode was recorded on Saturday, May 21, 2011, right in the middle of the Rapture! (Caveat: we don&#8217;t really talk about the rapture that much. Or at all, really. Except for at the end.) We talk about aliens (the extraterrestrial kind), NASA&#8217;s Gravity [...]<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></description>
+			<content:encoded><![CDATA[<p>Dave and Pat are back with another grab-bag of ADDcast pleasure. This episode was recorded on Saturday, May 21, 2011, right in the middle of the Rapture! (Caveat: we don&#8217;t really talk about the rapture that much. Or at all, really. Except for at the end.) We talk about aliens (the extraterrestrial kind), NASA&#8217;s Gravity Probe B mission, Pat&#8217;s work with payment gateways, tips and tricks for diving into legacy codebases, working for abusive bosses (both con and pro, and Pat and Dave both share experiences where they WERE the abusive boss), communication breakdowns and using Pair Programming as the solution, the value of Metaphor in communication, Dave&#8217;s (in)famous &#8220;Italian Nachos&#8221; metaphor&#8230; and the madness to his method of using it.</p>
+<p>Show Notes and obligatory fact checking:</p>
+<p>Dave mentions the Andromeda Galaxy and the M-31 Galaxy in the same sentence. They&#8217;re the same galaxy.</p>
+<p>The NASA experiment Dave mentions at 6:10 is the &#8220;Gravity Probe B&#8221; experiment. NASA&#8217;s experiment announcement is here: <a href="http://science.nasa.gov/science-news/science-at-nasa/2011/04may_epic/">http://science.nasa.gov/science-news/science-at-nasa/2011/04may_epic/</a>. Dave mentions at 7:50 that some of the distortion may be due to fluctuations in the Earth&#8217;s surface gravity, but this was just made up in his head. Not actual science!</p>
+<p>Pat swears at 28:14, but our censors caught it.</p>
+<p>Dave mentions a story about Steve Jobs and Apple in the New York Times at 52:10. This story actually appeared in Wired: <a href="http://www.wired.com/gadgetlab/2011/05/steve-jobs-magic/ ">http://www.wired.com/gadgetlab/2011/05/steve-jobs-magic/</a> Dave seriously sucks at details, huh?</p>
+<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://addcasts.com/2011/05/25/episode-7-spacetime-new-projects-cranky-bosses-metaphors/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://addcasts.com/episodes/addcasts007.mp3" length="99621439" type="audio/mpeg" />
+			<itunes:subtitle>Dave and Pat are back with another grab-bag of ADDcast pleasure. This episode was recorded on Saturday, May 21, 2011, right in the middle of the Rapture! (Caveat: we don&#039;t really talk about the rapture that much. Or at all, really. Except for at the end.</itunes:subtitle>
+		<itunes:summary>Dave and Pat are back with another grab-bag of ADDcast pleasure. This episode was recorded on Saturday, May 21, 2011, right in the middle of the Rapture! (Caveat: we don&#039;t really talk about the rapture that much. Or at all, really. Except for at the end.) We talk about aliens (the extraterrestrial kind), NASA&#039;s Gravity Probe B mission, Pat&#039;s work with payment gateways, tips and tricks for diving into legacy codebases, working for abusive bosses (both con and pro, and Pat and Dave both share experiences where they WERE the abusive boss), communication breakdowns and using Pair Programming as the solution, the value of Metaphor in communication, Dave&#039;s (in)famous &quot;Italian Nachos&quot; metaphor... and the madness to his method of using it.
+
+Show Notes and obligatory fact checking:
+
+Dave mentions the Andromeda Galaxy and the M-31 Galaxy in the same sentence. They&#039;re the same galaxy.
+
+The NASA experiment Dave mentions at 6:10 is the &quot;Gravity Probe B&quot; experiment. NASA&#039;s experiment announcement is here: http://science.nasa.gov/science-news/science-at-nasa/2011/04may_epic/. Dave mentions at 7:50 that some of the distortion may be due to fluctuations in the Earth&#039;s surface gravity, but this was just made up in his head. Not actual science!
+
+Pat swears at 28:14, but our censors caught it.
+
+Dave mentions a story about Steve Jobs and Apple in the New York Times at 52:10. This story actually appeared in Wired: http://www.wired.com/gadgetlab/2011/05/steve-jobs-magic/ Dave seriously sucks at details, huh?</itunes:summary>
+		<itunes:author>David Brady &amp; Pat Maddox</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:09:11</itunes:duration>
+	</item>
+		<item>
+		<title>Episode 6: Fiction and Compelling Code</title>
+		<link>http://addcasts.com/2011/05/10/episode-6-fiction-and-compelling-code/</link>
+		<comments>http://addcasts.com/2011/05/10/episode-6-fiction-and-compelling-code/#comments</comments>
+		<pubDate>Wed, 11 May 2011 01:21:48 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://addcasts.com/?p=112</guid>
+		<description><![CDATA[Dave just finished writing short stories for NaShoStoMo&#8212;National Short Story Month&#8212;and during the month he discovered a large number of parallels between finding passion for writing both code and fiction. Curious? Come see Pat and Dave talk about their passion for intuitive APIs, coding in &#8220;flow&#8221;, and the importance of finishing the story you&#8217;ve led [...]<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></description>
+			<content:encoded><![CDATA[<p>Dave just finished writing short stories for NaShoStoMo&mdash;National Short Story Month&mdash;and during the month he discovered a large number of parallels between finding passion for writing both code and fiction. Curious? Come see Pat and Dave talk about their passion for intuitive APIs, coding in &#8220;flow&#8221;, and the importance of finishing the story you&#8217;ve led the reader to believe you started. </p>
+<p>Subscribe to the <a href='http://addcasts.com/feed/podcast'>audio version</a> or the <a href='http://addcasts.com/feed/video'>video version</a> of the ADDcasts podcast.
+
+Subscribe to all blog posts via the <a href='http://addcasts.com/feed'>main feed</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://addcasts.com/2011/05/10/episode-6-fiction-and-compelling-code/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://addcasts.com/episodes/addcasts006.mp3" length="99581942" type="audio/mpeg" />
+			<itunes:subtitle>Dave just finished writing short stories for NaShoStoMo—National Short Story Month—and during the month he discovered a large number of parallels between finding passion for writing both code and fiction. Curious?</itunes:subtitle>
+		<itunes:summary>Dave just finished writing short stories for NaShoStoMo—National Short Story Month—and during the month he discovered a large number of parallels between finding passion for writing both code and fiction. Curious? Come see Pat and Dave talk about their passion for intuitive APIs, coding in &quot;flow&quot;, and the importance of finishing the story you&#039;ve led the reader to believe you started.</itunes:summary>
+		<itunes:author>David Brady &amp; Pat Maddox</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:09:09</itunes:duration>
+	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.311 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2012-04-28 01:17:31 -->
