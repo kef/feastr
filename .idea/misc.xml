@@ -3,6 +3,6 @@
   <component name="ProjectKey">
     <option name="state" value="project://default" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="RVM: ruby-1.9.3-p392 [feastr]" project-jdk-type="RUBY_SDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false" project-jdk-name="RVM: ruby-1.9.3-p392 [feastr]" project-jdk-type="RUBY_SDK" />
 </project>
 
